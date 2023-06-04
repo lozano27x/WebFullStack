@@ -4,6 +4,6 @@ Introducción al Desarrollo Web - Git
 # Desarrollo Web Full Stack
 ** Texto Personalizado **
 
-### Proyectos compartido
+### Proyecto compartido
 
 
