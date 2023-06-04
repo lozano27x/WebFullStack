@@ -6,4 +6,6 @@ Introducción al Desarrollo Web - Git
 
 ### Proyecto compartido
 
+proyecto de código abierto
+
 
